@@ -1,4 +1,4 @@
-# Scry App 🔮
+# Scry App
 
 A desktop application for searching Magic: The Gathering cards using the [Scryfall API](https://scryfall.com/docs/api).
 
@@ -7,12 +7,12 @@ A desktop application for searching Magic: The Gathering cards using the [Scryfa
 
 ## Features
 
-- 🔍 **Fuzzy Search** - Search for cards by name with flexible matching
-- 🖼️ **Card Images** - View high-quality card artwork
-- 📋 **Detailed Info** - See oracle text, mana cost, type, power/toughness, and more
-- 💰 **Pricing** - View current market prices (USD)
-- ⚖️ **Legality** - Check format legality across Standard, Pioneer, Modern, Legacy, Vintage, and Commander
-- 🎨 **Modern Dark UI** - Clean, easy-to-use interface
+- **Fuzzy Search** - Search for cards by name with flexible matching
+- **Card Images** - View high-quality card artwork
+- **Detailed Info** - See oracle text, mana cost, type, power/toughness, and more
+- **Pricing** - View current market prices (USD)
+- **Legality** - Check format legality across Standard, Pioneer, Modern, Legacy, Vintage, and Commander
+- **Modern Dark UI** - Clean, easy-to-use interface
 
 ## Installation
 
